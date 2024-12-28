@@ -1,0 +1,24 @@
+Project: 
+Totals: 
+    Sprites: 2
+    Stacks: 0
+    Unique costumes: 3
+    Unique sounds: 2
+--------
+Sprite: Stage
+  Costumes (1):
+    background1 (480x360)
+  Sounds (1):
+    pop (0:00:00)
+  No stacks.
+--------
+Sprite: Sprite1
+  Costumes (2):
+    costume1 (95x111)
+    costume2 (95x111)
+  Sounds (2):
+    pop (0:00:00)
+    meow (0:00:01)
+  No stacks.
+
+--------
